@@ -1,7 +1,7 @@
-# Banco Samuel
+# Banco Intelli
 
 
-Banco Samuel es una interfaz bancaria escrita en Java.
+Banco Intelli es una interfaz bancaria escrita en Java.
 
 
 ## Pruebas de aceptación: (Teniendo en cuenta los 100€ ingresados en el apartado 1.)
@@ -27,9 +27,9 @@ Banco Samuel es una interfaz bancaria escrita en Java.
 
 Insertado en las carpetas subyacentes. Añadida además un archivo index.html donde se refleja la página web del proyecto para su uso.
 
-### src/com/bancosamuel/domain/TipoMovimiento.java
+### src/com/bancoIntelli/domain/TipoMovimiento.java
 ```java
-package com.bancosamuel.domain;
+package com.bancoIntelli.domain;
 
 
 /** Tipo de movimiento: INGRESO o RETIRO */
